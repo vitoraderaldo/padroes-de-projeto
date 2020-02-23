@@ -9,5 +9,5 @@ Para isto foi utilizado a linguagem Java, cada pasta contém um _README.md_ expl
 #### Padrões de Projeto abordados
 
 1. Strategy
-2.
+2. Observer
 3.
