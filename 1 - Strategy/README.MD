@@ -1,7 +1,5 @@
 ## 1 - Warriors
 
----
-
 ### Contexto:
 
 Existem vários tipos de guerreiros, os quais possuem armas diferentes. Entretanto um guerreiro pode trocar de arma ao decorrer do jogo.
@@ -17,8 +15,6 @@ Assim, o guerreiro X informa qual será sua arma chamando as classes de comporta
 Além disso, é possível alterar qual arma usar e tempo de execução com o métodos: _setWeaponBehavior()_.
 
 ## 2 - Ducks
-
----
 
 ### Contexto:
 
