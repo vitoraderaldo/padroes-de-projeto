@@ -12,3 +12,4 @@ Para isto foi utilizado a linguagem Java, cada pasta contém um _README.md_ expl
 2. Observer
 3. Decorator
 4. Factory
+5. Singleton
