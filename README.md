@@ -15,3 +15,4 @@ Para isto foi utilizado a linguagem Java, cada pasta contém um _README.md_ expl
 5. Singleton
 6. Command
 7. Adapter
+8. Iterator
